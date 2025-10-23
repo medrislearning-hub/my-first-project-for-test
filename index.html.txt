@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AToZ Web Tools</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>AToZ Web Tools</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="tools.html">Tools</a></li>
+                <li><a href="templates.html">Templates</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="videos.html">Videos</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h2>Welcome to AToZ Web Tools</h2>
+            <p>Free tools, templates, courses, and videos all in one place!</p>
+        </section>
+
+        <section id="features">
+            <div class="feature">
+                <h3>Tools</h3>
+                <p>Explore online tools for web development.</p>
+            </div>
+            <div class="feature">
+                <h3>Templates</h3>
+                <p>Download free website and document templates.</p>
+            </div>
+            <div class="feature">
+                <h3>Courses</h3>
+                <p>Learn from beginner to expert courses.</p>
+            </div>
+            <div class="feature">
+                <h3>Videos</h3>
+                <p>Watch tutorial videos for practical learning.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 AToZ Web Tools. All rights reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

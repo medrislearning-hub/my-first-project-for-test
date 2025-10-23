@@ -1,0 +1,15 @@
+// Simple JS for future interactive tools
+window.onload = function() {
+    console.log("Welcome to AToZ Web Tools!");
+};
+
+// Example: alert when clicking a tool
+document.addEventListener("DOMContentLoaded", () => {
+    const tools = document.querySelectorAll("ul li a");
+    tools.forEach(tool => {
+        tool.addEventListener("click", (e) => {
+            e.preventDefault();
+            alert(`You clicked on ${tool.textContent}`);
+        });
+    });
+});

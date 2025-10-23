@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tools - AToZ Web Tools</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>AToZ Web Tools</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="tools.html">Tools</a></li>
+                <li><a href="templates.html">Templates</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="videos.html">Videos</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Online Tools</h2>
+        <ul>
+            <li><a href="#">HTML Validator</a></li>
+            <li><a href="#">CSS Minifier</a></li>
+            <li><a href="#">JavaScript Formatter</a></li>
+            <li><a href="#">Image Compressor</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 AToZ Web Tools. All rights reserved.</p>
+    </footer>
+</body>
+</html>
